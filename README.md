@@ -1,5 +1,5 @@
 <div align = "center">
-    <img src = "imagenes/logo_datasets.png" width = "70" height = "70" />
+    <img src = "imagenes/logo_datasets.png" width = "80" height = "70" />
 </div>
 
 # Datasets.
@@ -16,7 +16,7 @@
 
 ## Indice de contenido.
 
-1. [Stack Overflow Surveys.](git_instalacion_configuracion.md#cabecera)
+1. [Developer Survey 2019.](developer_survey_2019/)
 
 
 ## Contribuciones.
