@@ -1,10 +1,10 @@
 <div align = "center">
-    <img src = "imagenes/logo_datasets.png" width = "90" height = "70" />
+    <img src = "imagenes/logo_datasets.png" width = "100" height = "70" />
 </div>
 
 # Datasets.
 
-*Datasets* es un repositorio de datos para trabajar con *Ciencia de Datos*.
+*Datasets* es un repositorio de datos para trabajar con modelos y algoritmos de *Machine Learning* y *Ciencia de Datos*.
 
 <img src="https://img.shields.io/badge/License-MIT-green" /> <img src="https://img.shields.io/badge/Markdown-1.0.1%20-blue" />
 
