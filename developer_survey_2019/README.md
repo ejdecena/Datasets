@@ -1,5 +1,5 @@
 <div align = "center">
-    <img src = "../imagenes/logo_datasets.png" width = "80" height = "70" />
+    <img src = "../imagenes/logo_datasets.png" width = "90" height = "70" />
 </div>
 
 # Developer Survey 2019.
