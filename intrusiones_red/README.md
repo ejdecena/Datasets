@@ -2,7 +2,7 @@
     <img src = "../imagenes/logo_datasets.png" width = "100" height = "70" />
 </div>
 
-# Titanic: Intrusiones de Red (Seguridad Informática).
+# Intrusiones de Red (Seguridad Informática).
 
 * Origen: [KDD](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
 * Descripcioón: [KDD](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
